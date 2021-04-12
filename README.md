@@ -1,2 +1,5 @@
 # Project
-Projeto
+
+Projeto Cadastro de Cliente
+
+Alterar appsettings.json ConnectionStrings:SQLServer
